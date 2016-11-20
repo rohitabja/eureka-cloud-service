@@ -1,0 +1,8 @@
+spring:
+ application:
+  name: eureka
+ cloud:
+  config:
+   uri: http://spring-config-service-vocoid-cytotaxonomy.cfapps.io
+
+  
